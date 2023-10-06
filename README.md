@@ -44,7 +44,7 @@ My curiosity spans both development and cybersecurity. The process of transformi
 ## Find Me Online
 
 - 📸 Connect with me on [Instagram](https://instagram.com/AdarshKr753), where I share snippets of my coding journey.
-- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/Adarsh-Kumar-7b0898285) to explore potential collaborations and opportunities.
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/AdarshKr357) to explore potential collaborations and opportunities.
 
 ## Reach Out
 
