@@ -7,21 +7,21 @@ Welcome to my coding journey on GitHub!
 - 🚀 Transitioned into serious coding during class 10 and ventured into freelancing projects.
 - 🌐 Exploring GitHub and sharing my work after focusing on freelancing.
 
-## Language Proficiency
-
 ## &#x1f4c8; Github Stats
 
 <a href="https://github.com/adarshkr357/adarshkr357">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkr357&show_icons=true&line_height=27&count_private=true&theme=radical" alt="adarshkr357's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkr357&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Language Stats" />
 </a>
 
 <a href="https://github.com/adarshkr357/adarshkr357">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshkr357&show_icons=true&line_height=27&count_private=true&theme=radical" alt="adarshkr357's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshkr357&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Rating Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adarshkr357&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Language Proficiency
 
 I'm familiar with an array of programming languages, including:
 - C
