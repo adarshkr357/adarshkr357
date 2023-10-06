@@ -2,12 +2,26 @@
 
 Welcome to my coding journey on GitHub!
 
-- 🎓 I'm a 19-year-old coding enthusiast who embarked on this journey in class 8.
+- 🎓 I'm a 19-year-old coding enthusiast who embarked on this journey in class 10.
 - 💻 My coding adventure started with C++ and has since expanded to cover various programming languages.
 - 🚀 Transitioned into serious coding during class 10 and ventured into freelancing projects.
 - 🌐 Exploring GitHub and sharing my work after focusing on freelancing.
 
 ## Language Proficiency
+
+## &#x1f4c8; Github Stats
+
+<a href="https://github.com/adarshkr357/adarshkr357">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkr357&show_icons=true&line_height=27&count_private=true&theme=radical" alt="adarshkr357's GitHub Stats" />
+</a>
+
+<a href="https://github.com/adarshkr357/adarshkr357">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshkr357&show_icons=true&line_height=27&count_private=true&theme=radical" alt="adarshkr357's GitHub Stats" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adarshkr357&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 I'm familiar with an array of programming languages, including:
 - C
