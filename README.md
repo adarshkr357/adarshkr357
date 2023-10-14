@@ -26,14 +26,12 @@ Welcome to my coding journey on GitHub!
 I'm familiar with an array of programming languages, including:
 - C
 - C++
-- Java
-- Kotlin
 - Python
 - PHP
 - Node.js
-- JavaScript
-- HTML
-- CSS
+- Javascript
+- Dart
+- SQL
 
 I'm in a constant learning mode, eager to expand my skill set and embrace new technologies.
 
