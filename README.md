@@ -6,18 +6,18 @@ I’m a dedicated developer with a passion for building innovative solutions in 
 ## 💻 Tech Stack
 
 ### Development
-![API](https://img.shields.io/badge/API-Design-blue?style=for-the-badge&logo=postman)
-![Bot](https://img.shields.io/badge/Bot-Automation-blue?style=for-the-badge&logo=telegram)
-![Cross-platform](https://img.shields.io/badge/Cross--platform-Multiplatform-blue?style=for-the-badge&logo=react)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-blue?style=for-the-badge)
-![Web](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5)
+![API](https://img.shields.io/badge/API-Design-blue?style=for-the-badge&logo=postman&labelColor=141321)
+![Bot](https://img.shields.io/badge/Bot-Automation-blue?style=for-the-badge&logo=telegram&labelColor=141321)
+![Cross-platform](https://img.shields.io/badge/Cross--platform-Multiplatform-blue?style=for-the-badge&logo=react&labelColor=141321)
+![Web](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5&labelColor=141321)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-blue?style=for-the-badge&labelColor=141321)
 
 ### System & Architecture
-![Cloud Management](https://img.shields.io/badge/Cloud%20Management-Managed-blue?style=for-the-badge&logo=amazon)
-![Database Management](https://img.shields.io/badge/Database%20Management-SQL%20%26%20NoSQL-blue?style=for-the-badge&logo=mongodb)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-Design-blue?style=for-the-badge&logo=swagger)
-![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-Design-blue?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-Architecture-blue?style=for-the-badge)
+![Cloud Management](https://img.shields.io/badge/Cloud%20Management-Managed-blue?style=for-the-badge&logo=amazon&labelColor=141321)
+![Database Management](https://img.shields.io/badge/Database%20Management-SQL%20%26%20NoSQL-blue?style=for-the-badge&logo=mongodb&labelColor=141321)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-Design-blue?style=for-the-badge&logo=swagger&labelColor=141321)
+![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-Design-blue?style=for-the-badge&labelColor=141321)
+![System Design](https://img.shields.io/badge/System%20Design-Architecture-blue?style=for-the-badge&labelColor=141321)
 
 ### Programming & Tools
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)](https://aws.amazon.com)
@@ -30,7 +30,7 @@ I’m a dedicated developer with a passion for building innovative solutions in 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![VPS](https://img.shields.io/badge/VPS-4E5D6C?style=for-the-badge&logo=ubuntu)](https://en.wikipedia.org/wiki/Virtual_private_server)
+[![VPS](https://img.shields.io/badge/VPS-4E5D6C?style=for-the-badge&logo=ubuntu&color=141321)](https://en.wikipedia.org/wiki/Virtual_private_server)
 [![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![Node.js](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 
