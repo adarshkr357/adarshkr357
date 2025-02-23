@@ -5,15 +5,14 @@ I’m a dedicated developer with a passion for building innovative solutions in 
 
 ## 💻 Tech Stack
 
-### Development & System
-**Development:**
+### Development
 ![API](https://img.shields.io/badge/API-Design-blue?style=for-the-badge&logo=postman)
 ![Bot](https://img.shields.io/badge/Bot-Automation-blue?style=for-the-badge&logo=telegram)
 ![Cross-platform](https://img.shields.io/badge/Cross--platform-Multiplatform-blue?style=for-the-badge&logo=react)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-blue?style=for-the-badge)
 ![Web](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5)
 
-**System & Architecture:**
+### System & Architecture
 ![Cloud Management](https://img.shields.io/badge/Cloud%20Management-Managed-blue?style=for-the-badge&logo=amazon)
 ![Database Management](https://img.shields.io/badge/Database%20Management-SQL%20%26%20NoSQL-blue?style=for-the-badge&logo=mongodb)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-Design-blue?style=for-the-badge&logo=swagger)
