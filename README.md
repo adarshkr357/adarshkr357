@@ -136,11 +136,7 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkr357&show_icons=true&locale=en&layout=compact" alt="adarshkr357" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshkr357&show_icons=true&locale=en" alt="adarshkr357" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkr357&" alt="adarshkr357" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkr357&show_icons=true&locale=en&layout=compact" alt="adarshkr357" /></p>
 
 ---
 
